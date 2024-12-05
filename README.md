@@ -25,7 +25,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Zustand)
-![TanStack Query](https://img.shields.io/badge/TanStack%20React%20Query-v4.29-blue?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-000?&logo=ReactHookForm)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
@@ -34,6 +34,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-000?&logo=unocss&logoColor=white)
 ![PrimeReact](https://img.shields.io/badge/-PrimeReact-000?&logo=PrimeReact)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
