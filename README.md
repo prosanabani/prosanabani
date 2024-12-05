@@ -6,9 +6,11 @@
 
 ## 🚀 About Me
 
-- 🌱 **Always Learning:** Exploring technologies in web development and beyond.
-- 🤝 **Collaborative Spirit:** Open to working on exciting and meaningful projects.
-- 📬 **Let's Connect:** Feel free to reach out via [prosanabani@gmail.com](mailto:prosanabani@gmail.com).
+- 🎓 **Experienced Developer:** Senior IT professional specializing in modern web development and scalable applications.
+- 🏆 **Accomplished Innovator:** Consistently delivering high-quality solutions in **React**, **Firebase**, **TypeScript**, and **Flutter**.
+- 🌟 **Team Leader:** Known for effective collaboration and mentoring junior developers.
+- 💼 **Problem Solver:** Passionate about creating efficient and impactful digital solutions.
+- 📬 **Let's Connect:** Open to new challenges and collaborations! Reach out at [prosanabani@gmail.com](mailto:prosanabani@gmail.com).
 
 ---
 
@@ -46,6 +48,22 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?&logo=microsoftazure&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=Vite)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## 🏆 Key Projects
+
+### 🚀 [**Expense Tracer**](https://github.com/prosanabani/expense-tracer)
+- **Tech Stack:** Flutter, Firebase
+- Developed a robust application for tracking expenses with real-time data synchronization using Firebase.
+
+### 🛍️ [**NirvanaShop**](https://nirvanashop.com)
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- Built an e-commerce platform focused on beauty products, complete with payment integration and order tracking.
+
+### 🎮 [**Unity Game Project**](https://github.com/prosanabani/PetualanganJoshua)
+- **Tech Stack:** Unity, C#
+- Designed and developed a fully interactive adventure game with innovative gameplay mechanics.
 
 ---
 
