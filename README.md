@@ -49,27 +49,10 @@
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=Vite)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
 
----
-
-## 🏆 Key Projects
-
-### 🚀 [**Expense Tracer**](https://github.com/prosanabani/expense-tracer)
-- **Tech Stack:** Flutter, Firebase
-- Developed a robust application for tracking expenses with real-time data synchronization using Firebase.
-
-### 🛍️ [**NirvanaShop**](https://nirvanashop.com)
-- **Tech Stack:** React, Tailwind CSS, Firebase
-- Built an e-commerce platform focused on beauty products, complete with payment integration and order tracking.
-
-### 🎮 [**Unity Game Project**](https://github.com/prosanabani/PetualanganJoshua)
-- **Tech Stack:** Unity, C#
-- Designed and developed a fully interactive adventure game with innovative gameplay mechanics.
-
----
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosanabani&show_icons=true&hide_border=true&theme=radical)
 
@@ -81,7 +64,7 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ali-ibrahim-95612b218/)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&labelColor=red)](mailto:prosanabani@gmail.com)
