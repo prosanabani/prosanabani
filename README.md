@@ -43,9 +43,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?&logo=Azure%20DevOps)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?&logo=microsoftazure&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=Vite)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
