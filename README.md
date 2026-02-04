@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Ali Ibrahim!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=prosanabani&color=blue&style=for-the-badge)
 
-**IT Professional** | **Full-Stack Developer** | **Technical Expert**
+ **Software Engineer**
 
 *Driven by precision, innovation, and a relentless pursuit of excellence.*
 
@@ -143,20 +141,6 @@ Results-oriented IT professional with a strong background in modern web developm
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosanabani&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosanabani&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=prosanabani&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -171,7 +155,7 @@ Results-oriented IT professional with a strong background in modern web developm
 
 <div align="center">
 
-### ✨ _"Code is like humor. When you have to explain it, it's bad."_ ✨
+### ✨ _"Elegant code is its own explanation."_ ✨
 
 **Thanks for visiting!** ⭐
 
