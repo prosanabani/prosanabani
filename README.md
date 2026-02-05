@@ -1,6 +1,5 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prosanabani&color=blue&style=for-the-badge)
 
  **Software Engineer**
 
@@ -8,6 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pro-ali-1a71233a4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.sanabani@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=prosanabani&color=blue&style=for-the-badge)
 
 </div>
 
